@@ -1,0 +1,393 @@
+﻿Timestamp,DeviceName,InitiatingProcessAccountName,ActionType,RemoteIP,RemotePort,RemoteUrl,InitiatingProcessFileName
+"Mar 4, 2025 7:28:32 PM",arm-threathunti,,ConnectionFound,::ffff:23.9.183.29,443,https://fs.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:34 PM",arm-threathunti,,ConnectionFound,::ffff:23.9.183.29,443,https://fs.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:34 PM",arm-threathunti,,ConnectionFound,::ffff:23.9.183.29,443,https://fs.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:34 PM",arm-threathunti,,ConnectionFound,::ffff:23.9.183.29,443,https://fs.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:36 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.151,80,http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?62a6be48eb313b5d,svchost.exe
+"Mar 4, 2025 7:28:36 PM",arm-threathunti,,ConnectionFound,::ffff:172.202.163.200,443,https://slscr.update.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:36 PM",arm-threathunti,,ConnectionFound,::ffff:172.202.163.200,443,https://slscr.update.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:37 PM",arm-threathunti,,ConnectionFound,::ffff:172.202.163.200,443,https://slscr.update.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:39 PM",arm-threathunti,,ConnectionFound,::ffff:20.97.190.221,443,https://fe2cr.update.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:42 PM",arm-threathunti,,ConnectionFound,::ffff:23.210.73.5,80,http://download.windowsupdate.com/d/msdownload/update/others/2018/06/26753995_f328ff0bc8e46265aba7f7809fbd5964b7d9e19e.cab,svchost.exe
+"Mar 4, 2025 7:28:42 PM",arm-threathunti,,ConnectionFound,::ffff:23.210.73.5,80,http://download.windowsupdate.com/c/msdownload/update/others/2018/04/26455236_e1d5153194c9f8fcf9feeb1d43316f8ee3c34f55.cab,svchost.exe
+"Mar 4, 2025 7:28:42 PM",arm-threathunti,,ConnectionFound,::ffff:23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbsauqybmq2awn1rh6doh/sbygfv7gqua95qnvbrtltm8kpigxvdl7i90vuceaj0lqoxyo4hxxe7h/z9dka=,svchost.exe
+"Mar 4, 2025 7:28:43 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.133,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:28:53 PM",arm-threathunti,,ConnectionFound,::ffff:172.202.163.200,443,https://slscr.update.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:56 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:56 PM",arm-threathunti,,ConnectionFound,::ffff:13.107.246.41,443,https://clientconfig.passport.net,svchost.exe
+"Mar 4, 2025 7:28:56 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.133,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:28:56 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.133,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:28:56 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:57 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:57 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:57 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:58 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:58 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:58 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:59 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:59 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:59 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:28:59 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:00 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:01 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:01 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:01 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:01 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:01 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.242.39.171,443,https://fe3cr.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:02 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:03 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:03 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:05 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:05 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:05 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:05 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:05 PM",arm-threathunti,,ConnectionFound,::ffff:20.161.173.205,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:10 PM",arm-threathunti,,ConnectionFound,::ffff:20.97.190.221,443,https://fe2cr.update.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:22 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.133,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:29:34 PM",arm-threathunti,,ConnectionFound,::ffff:52.167.17.97,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:35 PM",arm-threathunti,,ConnectionFound,::ffff:52.167.17.97,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:35 PM",arm-threathunti,,ConnectionFound,::ffff:52.167.17.97,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:48 PM",arm-threathunti,,ConnectionFound,::ffff:20.7.2.167,443,https://client.wns.windows.com,svchost.exe
+"Mar 4, 2025 7:29:55 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:55 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:55 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:55 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:55 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:29:59 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:30:00 PM",arm-threathunti,,ConnectionFound,::ffff:40.119.249.228,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:30:02 PM",arm-threathunti,,ConnectionFound,::ffff:40.119.249.228,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:04 PM",arm-threathunti,,ConnectionFound,::ffff:20.7.2.167,443,https://client.wns.windows.com,svchost.exe
+"Mar 4, 2025 7:31:09 PM",arm-threathunti,,ConnectionFound,::ffff:52.167.249.196,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:11 PM",arm-threathunti,,ConnectionFound,::ffff:52.167.249.196,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:30 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.133,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:31:30 PM",arm-threathunti,,ConnectionFound,::ffff:20.22.113.133,443,https://displaycatalog.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:31 PM",arm-threathunti,,ConnectionFound,::ffff:20.242.39.171,443,https://fe3cr.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:32 PM",arm-threathunti,,ConnectionFound,::ffff:4.153.191.4,443,https://licensing.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:32 PM",arm-threathunti,,ConnectionFound,::ffff:52.183.205.142,443,https://tsfe.trafficshaping.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:33 PM",arm-threathunti,,ConnectionFound,::ffff:20.242.39.171,443,https://fe3cr.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:23.199.48.38,443,https://kv601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:23.199.48.38,443,https://cp601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828/pieceshash,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/27ca12bc-f81d-45ff-95d0-12ad79f15735/pieceshash,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263/pieceshash,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb/pieceshash,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:151.101.46.172,80,,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:23.215.0.164,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263?p1=1741135666&p2=404&p3=2&p4=icnfhzyj5s867uchh3pkmlvl4mtuh+kj3m0xqb735c/visovhd0nhvlrdtntquzhp6dxjy84vry2chr/crftgw==,svchost.exe
+"Mar 4, 2025 7:31:34 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/35aac184-1cd9-4cb6-b445-6d16b435eeae/pieceshash,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.149,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.151,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:23.53.35.46,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35aac184-1cd9-4cb6-b445-6d16b435eeae?p1=1741148694&p2=404&p3=2&p4=r5ebtdrkco3j2rcppft9lndn0xqdsfuasr93/7qell6menyg3gm5/ds+resvi5en9qkxbra31wq1i/7toc41ha==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:23.53.35.46,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35aac184-1cd9-4cb6-b445-6d16b435eeae?p1=1741148694&p2=404&p3=2&p4=r5ebtdrkco3j2rcppft9lndn0xqdsfuasr93/7qell6menyg3gm5/ds+resvi5en9qkxbra31wq1i/7toc41ha==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:23.53.35.38,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35aac184-1cd9-4cb6-b445-6d16b435eeae?p1=1741148694&p2=404&p3=2&p4=r5ebtdrkco3j2rcppft9lndn0xqdsfuasr93/7qell6menyg3gm5/ds+resvi5en9qkxbra31wq1i/7toc41ha==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.149,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.151,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:31:35 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:31:36 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.149,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:31:37 PM",arm-threathunti,,ConnectionFound,::ffff:151.101.46.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/27ca12bc-f81d-45ff-95d0-12ad79f15735?p1=1741135376&p2=404&p3=2&p4=owm068nn5qgqyvovmq8gukdn6pi1ekqd3ropc9ffancyrhtyiy6jfvyhre39p129avt4nemb+c8zn4opkm2hxg==,svchost.exe
+"Mar 4, 2025 7:31:38 PM",arm-threathunti,,ConnectionFound,::ffff:151.101.46.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/27ca12bc-f81d-45ff-95d0-12ad79f15735?p1=1741135376&p2=404&p3=2&p4=owm068nn5qgqyvovmq8gukdn6pi1ekqd3ropc9ffancyrhtyiy6jfvyhre39p129avt4nemb+c8zn4opkm2hxg==,svchost.exe
+"Mar 4, 2025 7:31:41 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.149,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:41 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.147,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:41 PM",arm-threathunti,,ConnectionFound,::ffff:208.89.73.151,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?p1=1741135408&p2=404&p3=2&p4=jw7gkivqe85hm770rlgn30cmlysg2tvltvo2kfcqxe2oyh8suqwacfwwhzneok2r0pvfzufdtwgptyratka1mq==,svchost.exe
+"Mar 4, 2025 7:31:43 PM",arm-threathunti,,ConnectionFound,::ffff:23.215.0.171,80,,svchost.exe
+"Mar 4, 2025 7:31:43 PM",arm-threathunti,,ConnectionFound,::ffff:23.215.0.171,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263?p1=1741135666&p2=404&p3=2&p4=icnfhzyj5s867uchh3pkmlvl4mtuh+kj3m0xqb735c/visovhd0nhvlrdtntquzhp6dxjy84vry2chr/crftgw==,svchost.exe
+"Mar 4, 2025 7:31:43 PM",arm-threathunti,,ConnectionFound,::ffff:23.215.0.164,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263?p1=1741135666&p2=404&p3=2&p4=icnfhzyj5s867uchh3pkmlvl4mtuh+kj3m0xqb735c/visovhd0nhvlrdtntquzhp6dxjy84vry2chr/crftgw==,svchost.exe
+"Mar 4, 2025 7:32:25 PM",arm-threathunti,,ConnectionFound,::ffff:20.106.86.13,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:19 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:19 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:19 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:19 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:19 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:19 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:20 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:22 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:22 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:22 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:24 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:25 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:25 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.8,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:33:32 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:38 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:40 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:42 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:33:44 PM",arm-threathunti,,ConnectionFound,::ffff:23.221.242.10,443,https://go.microsoft.com,svchost.exe
+"Mar 4, 2025 7:34:15 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.133,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:34:20 PM",arm-threathunti,,ConnectionFound,::ffff:20.189.173.1,443,https://v10.events.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:34:20 PM",arm-threathunti,,ConnectionFound,::ffff:13.89.179.8,443,https://v20.events.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:34:21 PM",arm-threathunti,,ConnectionFound,::ffff:20.42.73.24,443,https://v10.events.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:34:22 PM",arm-threathunti,,ConnectionFound,::ffff:20.42.73.24,443,https://v10.events.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:35:22 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?p1=1741524061&p2=404&p3=2&p4=vsl8zmblgk9kkghdgzesoqahrvhl9hpn+jbwzmwisfmpc+ve/ee927wc7g0pvj4tiluyyhbhcgynrldd0bttxg==,svchost.exe
+"Mar 4, 2025 7:35:22 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?p1=1741524061&p2=404&p3=2&p4=vsl8zmblgk9kkghdgzesoqahrvhl9hpn+jbwzmwisfmpc+ve/ee927wc7g0pvj4tiluyyhbhcgynrldd0bttxg==,svchost.exe
+"Mar 4, 2025 7:35:24 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?p1=1741524061&p2=404&p3=2&p4=vsl8zmblgk9kkghdgzesoqahrvhl9hpn+jbwzmwisfmpc+ve/ee927wc7g0pvj4tiluyyhbhcgynrldd0bttxg==,svchost.exe
+"Mar 4, 2025 7:35:34 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ef5f792e-9df7-4748-accf-02ec33a4a2c4?p1=1741524060&p2=404&p3=2&p4=eeskd2v3lrughzrcnmtaqxgfxbkl9sbspmxgmz3q/mt0med6phfixeyly9r1i0r+odchk/2vrfwbppswkg/0bg==,svchost.exe
+"Mar 4, 2025 7:35:34 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ef5f792e-9df7-4748-accf-02ec33a4a2c4?p1=1741524060&p2=404&p3=2&p4=eeskd2v3lrughzrcnmtaqxgfxbkl9sbspmxgmz3q/mt0med6phfixeyly9r1i0r+odchk/2vrfwbppswkg/0bg==,svchost.exe
+"Mar 4, 2025 7:35:49 PM",arm-threathunti,,ConnectionFound,::ffff:51.104.15.253,443,https://v20.events.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:35:51 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4643befd-79b8-4e0c-a2fb-c0e3ee78dcd5?p1=1741524062&p2=404&p3=2&p4=ey1z2xotwmdb8ygnhx8jbfhnj+tntga5mgzv3heam0wtcoyfeixqnw7htkuglx2aobgnpfpmx0h5ijmvwyn1aq==,svchost.exe
+"Mar 4, 2025 7:35:51 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4643befd-79b8-4e0c-a2fb-c0e3ee78dcd5?p1=1741524062&p2=404&p3=2&p4=ey1z2xotwmdb8ygnhx8jbfhnj+tntga5mgzv3heam0wtcoyfeixqnw7htkuglx2aobgnpfpmx0h5ijmvwyn1aq==,svchost.exe
+"Mar 4, 2025 7:36:03 PM",arm-threathunti,,ConnectionFound,::ffff:23.48.9.133,443,https://oneclient.sfx.ms,svchost.exe
+"Mar 4, 2025 7:36:26 PM",arm-threathunti,,ConnectionFound,::ffff:20.22.207.36,443,https://g.live.com,svchost.exe
+"Mar 4, 2025 7:36:44 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.8,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:36:45 PM",arm-threathunti,,ConnectionFound,::ffff:20.22.113.133,443,https://displaycatalog.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:36:45 PM",arm-threathunti,,ConnectionFound,::ffff:20.22.113.133,443,https://displaycatalog.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:36:46 PM",arm-threathunti,,ConnectionFound,::ffff:20.22.113.133,443,https://displaycatalog.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:38:21 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.8,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:39:42 PM",arm-threathunti,,ConnectionFound,::ffff:51.105.71.137,443,https://v10.events.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:42:10 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cbc98ff-b69b-4fda-ad94-17ec2f9cf48b?p1=1741524061&p2=404&p3=2&p4=yo/ca1ip/zusbbmvojiha6ml5q0bzvobevp5mrd72dzw8au1wjyj0xujesqiotjeodhubz1jqllsx1xxicuhba==,svchost.exe
+"Mar 4, 2025 7:42:10 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cbc98ff-b69b-4fda-ad94-17ec2f9cf48b?p1=1741524061&p2=404&p3=2&p4=yo/ca1ip/zusbbmvojiha6ml5q0bzvobevp5mrd72dzw8au1wjyj0xujesqiotjeodhubz1jqllsx1xxicuhba==,svchost.exe
+"Mar 4, 2025 7:43:38 PM",arm-threathunti,,ConnectionFound,::ffff:52.140.118.28,443,https://settings-win.data.microsoft.com,svchost.exe
+"Mar 4, 2025 7:43:44 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f28d972a-574d-41b9-8559-4ab486e8a4f0?p1=1741524061&p2=404&p3=2&p4=ymbmahn1gikr33hqsz04cm9h/sduwli98d9prm2rca+jmgn7kjyociuzb1w9urgkr1bh9h0x8wkmcull3hc5mw==,svchost.exe
+"Mar 4, 2025 7:43:44 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f28d972a-574d-41b9-8559-4ab486e8a4f0?p1=1741524061&p2=404&p3=2&p4=ymbmahn1gikr33hqsz04cm9h/sduwli98d9prm2rca+jmgn7kjyociuzb1w9urgkr1bh9h0x8wkmcull3hc5mw==,svchost.exe
+"Mar 4, 2025 7:44:41 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.6,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:44:41 PM",arm-threathunti,,ConnectionFound,::ffff:20.190.151.6,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:44:48 PM",arm-threathunti,,ConnectionFound,::ffff:40.126.62.130,443,https://login.live.com,svchost.exe
+"Mar 4, 2025 7:45:13 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.21.239,443,,msedge.exe
+"Mar 4, 2025 7:45:20 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.189.173.16,443,,msedgewebview2.exe
+"Mar 4, 2025 7:46:00 PM",arm-threathunti,,ConnectionSuccess,169.254.169.254,80,,
+"Mar 4, 2025 7:46:00 PM",arm-threathunti,,ConnectionSuccess,169.254.169.254,80,http://169.254.169.254/metadata/instance/compute/vmid?api-version=2020-06-01&format=text,
+"Mar 4, 2025 7:46:00 PM",arm-threathunti,,ConnectionSuccess,169.254.169.254,80,http://169.254.169.254/metadata/instance/compute/resourceid?api-version=2020-06-01&format=text,
+"Mar 4, 2025 7:46:00 PM",arm-threathunti,,ConnectionSuccess,169.254.169.254,80,http://169.254.169.254/metadata/instance/compute/subscriptionid?api-version=2020-06-01&format=text,
+"Mar 4, 2025 7:46:18 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.209.72.32,443,,explorer.exe
+"Mar 4, 2025 7:46:18 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.209.72.32,443,https://assets.msn.com,explorer.exe
+"Mar 4, 2025 7:46:42 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.239,443,,msedge.exe
+"Mar 4, 2025 7:49:05 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.28.10,443,,searchapp.exe
+"Mar 4, 2025 7:49:05 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.28.10,443,https://www.bing.com,searchapp.exe
+"Mar 4, 2025 7:49:07 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.168.117.174,443,,msedgewebview2.exe
+"Mar 4, 2025 7:49:07 PM",arm-threathunti,aaronmart,ConnectionSuccess,40.79.173.41,443,browser.pipe.aria.microsoft.com,searchapp.exe
+"Mar 4, 2025 7:49:18 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.222,443,fp.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:18 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.222,443,https://fp.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:19 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.28.10,443,,backgroundtransferhost.exe
+"Mar 4, 2025 7:49:20 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.28.10,443,https://www.bing.com,backgroundtransferhost.exe
+"Mar 4, 2025 7:49:20 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.254,443,ax-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:20 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.22.254,443,ln-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:20 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.254,443,t-ring-s.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:20 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.254,443,https://t-ring-s.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,40.79.173.41,443,https://browser.pipe.aria.microsoft.com,searchapp.exe
+"Mar 4, 2025 7:49:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.254,443,https://ax-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 7:49:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.22.254,443,https://ln-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 7:51:14 PM",arm-threathunti,network service,ConnectionSuccess,13.74.137.53,443,geo.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:14 PM",arm-threathunti,network service,ConnectionSuccess,23.222.201.243,443,kv601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:14 PM",arm-threathunti,network service,ConnectionSuccess,23.222.201.243,443,https://kv601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:14 PM",arm-threathunti,network service,ConnectionSuccess,13.74.137.53,443,https://geo.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:14 PM",arm-threathunti,network service,ConnectionSuccess,23.199.48.38,443,cp601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:14 PM",arm-threathunti,network service,ConnectionSuccess,23.199.48.38,443,https://cp601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.147,80,,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.147,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c452d4ef-2486-4efe-9c99-36b3d23e0160/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.129,80,,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c5ccbb5-88d3-4e90-ac79-3880010d81af?p1=1741136492&p2=404&p3=2&p4=eysl+jqhrmikzcwbspb8rbtwyo+xrluwalq4tjmt86tcuh9f35wd7aw+u9vuzh+opcsjdbimh7ohnnfamto7vg==,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.129,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c452d4ef-2486-4efe-9c99-36b3d23e0160?p1=1741136437&p2=404&p3=2&p4=tpcz6i++ba0d6huykpbeftsowu2v5shvgyw7z03fbfqup0whhw8bwfqxzbqcrwmextv6fpbujsve94mpp8a3iq==,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bc2b77dd-5801-4779-b34d-77119629866c/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.151,80,1a.tlu.dl.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,1a.tlu.dl.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4dd135ac-f0f3-4ae8-b910-14e9839b77cf/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:15 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bc2b77dd-5801-4779-b34d-77119629866c?p1=1741136448&p2=404&p3=2&p4=ctlcnzq6r9oq3qhiar6yxnceufqi6ucwwbsqefcjzaelvh7pydkj8/ni6cmg8dlelltbcoitor8ikfro9h/bew==,svchost.exe
+"Mar 4, 2025 7:51:16 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4dd135ac-f0f3-4ae8-b910-14e9839b77cf?p1=1741136568&p2=404&p3=2&p4=qnyhiyc4joxuy2fkln0x+qxl+fihgfpcakgkzqlewbwgnqbg1ykbmdl8g3602pmwrenjdvp/cyewiib+42r6xq==,svchost.exe
+"Mar 4, 2025 7:51:16 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/76864380-9ee8-4f9b-907f-7ccce9c7ca57/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:16 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/04321851-7dec-4cfd-8c57-da0b4ae64040/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:16 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/04321851-7dec-4cfd-8c57-da0b4ae64040?p1=1741136864&p2=404&p3=2&p4=j0v3dxlk6bpd+wxm0qw2mpnhj+8cuks+czlozfvfoxdd/4frtcthnir0xkrgi2oxfygp8fc/cmddpdvei03zda==,svchost.exe
+"Mar 4, 2025 7:51:16 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/76864380-9ee8-4f9b-907f-7ccce9c7ca57?p1=1741136527&p2=404&p3=2&p4=gpfwcjq61bzbz25hflwreljfxb/b/rap5q7kgnsnt2zjle9xu2+zge3itwmtatbntva/qxiynvkv+nwerfg/ag==,svchost.exe
+"Mar 4, 2025 7:51:17 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d8e5a058-a962-49d1-a201-a691c531ba6d/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:17 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a91cad94-456f-4333-8bd4-e9403e83fcd0/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:17 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.147,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8e5a058-a962-49d1-a201-a691c531ba6d?p1=1741136533&p2=404&p3=2&p4=b6wogitmulvuh7dsragjx5ujvmrusw3xi8hebhccwcqtvtmgeqldudh8lsvpes/aeknzegqh7xmo1yl9q4xhqw==,svchost.exe
+"Mar 4, 2025 7:51:17 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a91cad94-456f-4333-8bd4-e9403e83fcd0?p1=1741136518&p2=404&p3=2&p4=hlzzute37imbz0d+jwdzxoasr3jog2nbq9bvudwi7u7hjf/krjsoq+sd0y+w5yqyunuqjrqo33festpfrunpeq==,svchost.exe
+"Mar 4, 2025 7:51:18 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8dea8123-fd8f-492c-9c2d-7cdfab740447/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:18 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8dea8123-fd8f-492c-9c2d-7cdfab740447?p1=1741136628&p2=404&p3=2&p4=kgdyhsu43yvy/rtoybc7ss+vvuooalurjz7cwckh7194jnfaj6mxnvuip94ebob6l9ygrbdn9vbv6dconlskgw==,svchost.exe
+"Mar 4, 2025 7:51:19 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9683459a-02fa-4bd6-9ae6-af8ddfbeef35/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:19 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,1a.tlu.dl.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:19 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9683459a-02fa-4bd6-9ae6-af8ddfbeef35?p1=1741136447&p2=404&p3=2&p4=gxvboz6pbg+qn6mup1o/eorbfeseeqymrgtwzfprhphyho9mepszkl/7bpq0z2wdpgfvorf11lirvlxc4e945g==,svchost.exe
+"Mar 4, 2025 7:51:19 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/baf6388f-cf6b-4980-a220-0f1cc8c2f857/pieceshash,svchost.exe
+"Mar 4, 2025 7:51:19 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/baf6388f-cf6b-4980-a220-0f1cc8c2f857?p1=1741136529&p2=404&p3=2&p4=exoig0toyrrrx4cpgymooynuir7jemaqbso17e8o8+hczy7/etlbtehmsr+kfweogsjbx2ptiqysxjmvh506lw==,svchost.exe
+"Mar 4, 2025 7:51:27 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,,svchost.exe
+"Mar 4, 2025 7:51:34 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,www.bing.com,explorer.exe
+"Mar 4, 2025 7:51:34 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,ocsp.digicert.com,explorer.exe
+"Mar 4, 2025 7:51:34 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkcea77flr+3w/xbpruv2lte6a=,explorer.exe
+"Mar 4, 2025 7:51:34 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,https://www.bing.com,explorer.exe
+"Mar 4, 2025 7:51:44 PM",arm-threathunti,network service,ConnectionSuccess,23.222.201.169,443,geover.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:51:44 PM",arm-threathunti,network service,ConnectionSuccess,23.222.201.169,443,https://geover.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:52:27 PM",arm-threathunti,network service,ConnectionSuccess,23.59.25.253,443,cp601.prod.do.dsp.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:52:27 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a661d4ff-8638-4037-a5bd-7d38431043f3/pieceshash,svchost.exe
+"Mar 4, 2025 7:52:27 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a661d4ff-8638-4037-a5bd-7d38431043f3?p1=1741136542&p2=404&p3=2&p4=hhrn4j0a33jnaxk9jfdu071jupschvjgdrzcpzsltebdgwttslgktbu+w67nxtzqzg1q/gjsoqveouph8zbshq==,svchost.exe
+"Mar 4, 2025 7:52:51 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7132d8c2-5dc2-4427-b022-f83625e32a6a/pieceshash,svchost.exe
+"Mar 4, 2025 7:52:51 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e004b160-9b5f-47a9-b048-5a77cb8b2592/pieceshash,svchost.exe
+"Mar 4, 2025 7:52:51 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.129,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e004b160-9b5f-47a9-b048-5a77cb8b2592?p1=1741136867&p2=404&p3=2&p4=ba1vrz7ct+gssrftja1f8uieqvecpoe5e3y25snn5vp1m7kjwy+sovabmse7o3/5wuxbwnmm+abdmkyv1x60eg==,svchost.exe
+"Mar 4, 2025 7:52:51 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.147,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7132d8c2-5dc2-4427-b022-f83625e32a6a?p1=1741136927&p2=404&p3=2&p4=fhm8nn3pqi71z6bjsmoogx/n48zqifg547kkkg3spcqf1m7zyqguhxxa5pt9cqraxrawp4s4zegypweqwriheg==,svchost.exe
+"Mar 4, 2025 7:52:51 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.149,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/58b964a1-ddb8-484d-80a4-b60af2f8bae4/pieceshash,svchost.exe
+"Mar 4, 2025 7:52:51 PM",arm-threathunti,,ConnectionFound,::ffff:146.75.30.172,80,,svchost.exe
+"Mar 4, 2025 7:53:00 PM",arm-threathunti,network service,ConnectionSuccess,23.199.50.75,443,,svchost.exe
+"Mar 4, 2025 7:53:01 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/58b964a1-ddb8-484d-80a4-b60af2f8bae4?p1=1741141947&p2=404&p3=2&p4=gkl8un2zgzvx7rogsxf1x50ihnqgbg4owlsqnpfndd8xhbhniwmoxtzrbsz6ukcforcvajrdtadyzum2rl6o5w==,svchost.exe
+"Mar 4, 2025 7:53:20 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5cc108cf-8572-4412-95da-03b9efe3ee51/pieceshash,svchost.exe
+"Mar 4, 2025 7:53:20 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cc108cf-8572-4412-95da-03b9efe3ee51?p1=1741136756&p2=404&p3=2&p4=ncbadr6wt3vhx0wo5ounpssdckl3n4elqvag4jejc33hmjkcmcrs976sma9q8sgiq4aydvp6kqoxzjfnpra/tg==,svchost.exe
+"Mar 4, 2025 7:53:34 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263/pieceshash,svchost.exe
+"Mar 4, 2025 7:53:34 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263?p1=1741135666&p2=404&p3=2&p4=icnfhzyj5s867uchh3pkmlvl4mtuh+kj3m0xqb735c/visovhd0nhvlrdtntquzhp6dxjy84vry2chr/crftgw==,svchost.exe
+"Mar 4, 2025 7:53:34 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb/pieceshash,svchost.exe
+"Mar 4, 2025 7:53:34 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.129,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741135608&p2=404&p3=2&p4=f8+ybupb2ivt1elb79bcxue3zsxhle0ljgdlt+z6vzhx1f15gmrl/m81rp4qowcuw8scjbj79c8dabdrgxa4qw==,svchost.exe
+"Mar 4, 2025 7:53:35 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/35aac184-1cd9-4cb6-b445-6d16b435eeae/pieceshash,svchost.exe
+"Mar 4, 2025 7:53:35 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35aac184-1cd9-4cb6-b445-6d16b435eeae?p1=1741148694&p2=404&p3=2&p4=r5ebtdrkco3j2rcppft9lndn0xqdsfuasr93/7qell6menyg3gm5/ds+resvi5en9qkxbra31wq1i/7toc41ha==,svchost.exe
+"Mar 4, 2025 7:53:36 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb83ce48-e808-458d-876d-9ddf81efe8eb?p1=1741136997&p2=404&p3=2&p4=gwlcji/mve8igqqek5vxakwrutdvgnsk3kznn9be7zme6dpzzxkppfewdu2sqal/qoagfx476gwr9l3a+uxr6q==,svchost.exe
+"Mar 4, 2025 7:53:36 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.147,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c97dff7-00a0-4937-8092-95f620dda263?p1=1741137040&p2=404&p3=2&p4=jte/86fe3z09duhm/3pvgmivhfufdytkrxquj9zkuhdcesjrsi6zh0f6+ljcoa1m7gngu9s+xp5jzvr3hdvdba==,svchost.exe
+"Mar 4, 2025 7:53:54 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6c5ccbb5-88d3-4e90-ac79-3880010d81af/pieceshash,svchost.exe
+"Mar 4, 2025 7:53:56 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/82ff60f3-bd91-442f-9487-f49ed0d92fdc/pieceshash,svchost.exe
+"Mar 4, 2025 7:54:00 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/82ff60f3-bd91-442f-9487-f49ed0d92fdc?p1=1741137763&p2=404&p3=2&p4=k+iz1ot+s0nll+njdmgzda0r+arl7mh1lxt2x29h5no1oi07pl4pd5uopg1m5cy3bzv4vo26x0v1hrfjgcdxjg==,svchost.exe
+"Mar 4, 2025 7:54:22 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4ffb7a09-8860-48d1-9d8d-5cb7655af9c5/pieceshash,svchost.exe
+"Mar 4, 2025 7:54:22 PM",arm-threathunti,network service,ConnectionSuccess,208.89.73.145,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ffb7a09-8860-48d1-9d8d-5cb7655af9c5?p1=1741136797&p2=404&p3=2&p4=whjie6kt3+kxqfa7qxstjc9/ddnkgz3rfsblykiy3vvsxgy6ekmkwqurbpip91bs1/o99a7ukle156+09mnoqw==,svchost.exe
+"Mar 4, 2025 7:54:30 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.75.60.91,443,,backgroundtaskhost.exe
+"Mar 4, 2025 7:54:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,,apphostregistrationverifier.exe
+"Mar 4, 2025 7:54:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,https://maps.windows.com,apphostregistrationverifier.exe
+"Mar 4, 2025 7:54:38 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9410058d-7320-43d7-9b2a-d342568892b6/pieceshash,svchost.exe
+"Mar 4, 2025 7:54:38 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/57aca568-c081-4ef9-91ad-ae502d9cae79/pieceshash,svchost.exe
+"Mar 4, 2025 7:54:39 PM",arm-threathunti,network service,ConnectionSuccess,151.101.46.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9410058d-7320-43d7-9b2a-d342568892b6?p1=1741136729&p2=404&p3=2&p4=imq4tpjkkowgk5ndsgp6nfdn+dbeap/qmwhuuxoeqadfez9dgl6dea5ka44gtii3tfzgoomzgdmssvtqlb3+ag==,svchost.exe
+"Mar 4, 2025 7:54:39 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ec54f502-45e3-4bb9-9284-bad0755a3a4b/pieceshash,svchost.exe
+"Mar 4, 2025 7:54:39 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ec54f502-45e3-4bb9-9284-bad0755a3a4b?p1=1741137290&p2=404&p3=2&p4=j7nnbx9feyzjkqopui9ma4wntnqrs9mjt1tdmwecwygk/trtakbif+srbq1otfycs/ljjbfceitinc32qxmp4w==,svchost.exe
+"Mar 4, 2025 7:54:40 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.75.60.91,443,https://fd.api.iris.microsoft.com,backgroundtaskhost.exe
+"Mar 4, 2025 7:54:55 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.221.240.64,443,,svchost.exe
+"Mar 4, 2025 7:54:55 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.221.240.64,443,https://cdn.onenote.net,svchost.exe
+"Mar 4, 2025 7:55:14 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d01b00a6-6318-418c-8599-6c1309c71deb/pieceshash,svchost.exe
+"Mar 4, 2025 7:55:14 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d01b00a6-6318-418c-8599-6c1309c71deb?p1=1741138184&p2=404&p3=2&p4=wycqqitlsmf2ln0zxwranbhhs0bkjqivkvnk+wj62atds8l6ldhfjp9vsipahshp0tizdmjvhabyl3nsm5yhfg==,svchost.exe
+"Mar 4, 2025 7:56:15 PM",arm-threathunti,aaronmart,ConnectionSuccess,51.116.246.106,443,self.events.data.microsoft.com,localbridge.exe
+"Mar 4, 2025 7:56:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.6.156,443,www.office.com,wwahost.exe
+"Mar 4, 2025 7:56:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,,wwahost.exe
+"Mar 4, 2025 7:56:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkceauzzszeml49gjh0j13p68w=,wwahost.exe
+"Mar 4, 2025 7:56:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.228.161.161,443,unitedstates.smartscreen.microsoft.com,smartscreen.exe
+"Mar 4, 2025 7:56:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.228.161.161,443,https://unitedstates.smartscreen.microsoft.com,smartscreen.exe
+"Mar 4, 2025 7:56:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.6.156,443,https://www.office.com,wwahost.exe
+"Mar 4, 2025 7:56:17 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.53.35.12,443,res.cdn.office.net,wwahost.exe
+"Mar 4, 2025 7:56:17 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.53.35.12,443,https://res.cdn.office.net,wwahost.exe
+"Mar 4, 2025 7:56:17 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbsauqybmq2awn1rh6doh/sbygfv7gqua95qnvbrtltm8kpigxvdl7i90vuceaj0lqoxyo4hxxe7h/z9dka=,wwahost.exe
+"Mar 4, 2025 7:56:18 PM",arm-threathunti,aaronmart,ConnectionSuccess,51.116.246.106,443,https://self.events.data.microsoft.com,localbridge.exe
+"Mar 4, 2025 7:56:22 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/af01c4cf-f9bd-4f72-9169-3d71eae3c707/pieceshash,svchost.exe
+"Mar 4, 2025 7:56:22 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af01c4cf-f9bd-4f72-9169-3d71eae3c707?p1=1741137084&p2=404&p3=2&p4=xulb78je/cpgd0m3su6kp0gjbzczo4uemetr/aunbrwg0uvsyrkdy2vhhl4t7c5vfpzauqwmys0ekqi/uqxp9q==,svchost.exe
+"Mar 4, 2025 7:56:22 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1e002316-24bf-4c33-b9cf-811a23d97dc6/pieceshash,svchost.exe
+"Mar 4, 2025 7:56:22 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1e002316-24bf-4c33-b9cf-811a23d97dc6?p1=1741137198&p2=404&p3=2&p4=kqf0m+/b5eveupuvgtqh/tfwftulz3obl0fcocv+btwjy4krk7qqzrv4c6qyzij8umk8wk0lf2b2wf7vtz4qbw==,svchost.exe
+"Mar 4, 2025 7:56:23 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.129,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/953e7476-9151-4abe-98fb-5f76f644a22d?p1=1741144557&p2=404&p3=2&p4=qske/lm8ru1s+wrgif39hbltsavx4on/bmp6yvs4akenxyddereshize9uhd/acsmqhhkp6nnabqc1sh15/biw==,svchost.exe
+"Mar 4, 2025 7:56:33 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/31767de3-2eb7-460c-913b-2729b0dc9faa/pieceshash,svchost.exe
+"Mar 4, 2025 7:56:34 PM",arm-threathunti,network service,ConnectionSuccess,23.223.33.130,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/31767de3-2eb7-460c-913b-2729b0dc9faa?p1=1741155639&p2=404&p3=2&p4=fxvs8ec3kbqdykm5oxzlbxaxqdrxu6mqzuwudqrh/8bnjpxgn1mveegtuxbbo3chjc/0prda3ddg4ysl4vdfmq==,svchost.exe
+"Mar 4, 2025 7:56:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.58.181.38,80,tile-service.weather.microsoft.com,svchost.exe
+"Mar 4, 2025 7:56:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.58.181.38,80,http://tile-service.weather.microsoft.com/en-us/livetile/preinstall?region=us&appid=c98ea5b0842dbb9405bbf071e1da76512d21fe36&form=threshold,svchost.exe
+"Mar 4, 2025 7:57:25 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,ocsp.digicert.com,backgroundtransferhost.exe
+"Mar 4, 2025 7:57:26 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkcea77flr+3w/xbpruv2lte6a=,backgroundtransferhost.exe
+"Mar 4, 2025 7:57:38 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.5.88,443,outlookmobile-office365-tas.msedge.net,hxtsr.exe
+"Mar 4, 2025 7:57:39 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,ocsp.digicert.com,hxtsr.exe
+"Mar 4, 2025 7:57:39 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkcean5bskvvv8kdj6vhl3o1j0=,hxtsr.exe
+"Mar 4, 2025 7:57:42 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.5.88,443,https://outlookmobile-office365-tas.msedge.net,hxtsr.exe
+"Mar 4, 2025 7:57:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.191.219.104,443,settings.data.microsoft.com,hxtsr.exe
+"Mar 4, 2025 7:57:47 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkceapdqvcbatuvizv57hiiula=,hxtsr.exe
+"Mar 4, 2025 7:57:49 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.191.219.104,443,https://settings.data.microsoft.com,hxtsr.exe
+"Mar 4, 2025 7:57:56 PM",arm-threathunti,network service,ConnectionSuccess,23.43.243.10,80,dl.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:58:00 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,www.bing.com,backgroundtransferhost.exe
+"Mar 4, 2025 7:58:10 PM",arm-threathunti,network service,ConnectionSuccess,23.43.243.10,80,http://dl.delivery.mp.microsoft.com/filestreamingservice/files/30478322-af3a-4ac7-9bfc-8e69a8deae62/pieceshash,svchost.exe
+"Mar 4, 2025 7:58:11 PM",arm-threathunti,network service,ConnectionSuccess,146.75.30.172,80,http://1a.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30478322-af3a-4ac7-9bfc-8e69a8deae62?p1=1741141114&p2=404&p3=2&p4=jfbq0mkkbvpxdtdsabnumjenaqduqc0p0rk5jvfskdbkqggowhcb3vqqgmpul/x7mxf4bo/vn2fcka7lp1fnmq==,svchost.exe
+"Mar 4, 2025 7:58:40 PM",arm-threathunti,network service,ConnectionSuccess,23.43.243.17,80,dl.delivery.mp.microsoft.com,svchost.exe
+"Mar 4, 2025 7:59:28 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.239,443,,msedgewebview2.exe
+"Mar 4, 2025 7:59:32 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.69.116.108,443,,msedge.exe
+"Mar 4, 2025 7:59:32 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.203,443,api.msn.com,backgroundtaskhost.exe
+"Mar 4, 2025 7:59:33 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.203,443,https://api.msn.com,backgroundtaskhost.exe
+"Mar 4, 2025 7:59:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,116.202.120.165,443,,msedge.exe
+"Mar 4, 2025 7:59:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,104.40.82.182,443,,msedge.exe
+"Mar 4, 2025 8:03:02 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.228.161.161,443,,msedge.exe
+"Mar 4, 2025 8:03:02 PM",arm-threathunti,aaronmart,ConnectionSuccess,116.202.120.166,443,,msedge.exe
+"Mar 4, 2025 8:03:02 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,,msedge.exe
+"Mar 4, 2025 8:03:02 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.42.73.24,443,,msedge.exe
+"Mar 4, 2025 8:03:04 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.8.99.144,443,,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://cacerts.digicert.com/digicerttrustedg4codesigningrsa4096sha3842021ca1.crt,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://cacerts.digicert.com/digicertassuredidrootca.crt,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.210.92.203,80,,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.210.92.203,80,http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?acd6b58088edc793,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbt3xl4lqlxdrdm9p665tw442vrsuqqureuir/ssy4ixlvglp6chnfntya8cea6bgi750c3n79tq4ghagfo=,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbtfis+ljdtgwq09xeb1yeq+tx+bgqqu7nfjgtjxxwrm3y5np+e6mk4cd08ceaitqljg0pxmn17nqb2trtk=,msedge.exe
+"Mar 4, 2025 8:03:10 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbsrxerf0efeswrriptgtkcjwmm7iqquadfg67y7+f8rhvv+yxsiigx0tkiceasrfcm8wbfi3dmkonozycm=,msedge.exe
+"Mar 4, 2025 8:03:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,,msedge.exe
+"Mar 4, 2025 8:04:16 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,www.bing.com,searchapp.exe
+"Mar 4, 2025 8:04:21 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,fp-afd-nocache-ccp.azureedge.net,searchapp.exe
+"Mar 4, 2025 8:04:21 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,https://fp-afd-nocache-ccp.azureedge.net,searchapp.exe
+"Mar 4, 2025 8:04:21 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.203,80,oneocsp.microsoft.com,searchapp.exe
+"Mar 4, 2025 8:04:21 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.203,80,http://oneocsp.microsoft.com/ocsp/mfqwujbqme4wtdajbgurdgmcgguabbtkdqgdwypijnqdbea5b5x5bzzglgquo3dru+l2jz1gqmpmd8abrm9ufmocezmblxaejqodcgi+p2maaagxeb4=,searchapp.exe
+"Mar 4, 2025 8:04:22 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.123.129.254,443,dual-s-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:22 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.31.254,443,ev2-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.108.8.254,443,wac-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.42.254,443,l-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.253.254,443,t-ring-fallback.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.253.254,443,https://t-ring-fallback.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:29 PM",arm-threathunti,aaronmart,ConnectionSuccess,4.150.155.223,443,unitedstates.smartscreen.microsoft.com,smartscreen.exe
+"Mar 4, 2025 8:04:30 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.4.254,443,c-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:33 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.123.129.254,443,https://dual-s-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:33 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.31.254,443,https://ev2-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.108.8.254,443,https://wac-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.42.254,443,https://l-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:04:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.4.254,443,https://c-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:05:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkcean5bskvvv8kdj6vhl3o1j0=,backgroundtransferhost.exe
+"Mar 4, 2025 8:05:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.28.10,443,https://tse1.mm.bing.net,backgroundtransferhost.exe
+"Mar 4, 2025 8:06:53 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,g.bing.com,backgroundtaskhost.exe
+"Mar 4, 2025 8:06:53 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,https://g.bing.com,backgroundtaskhost.exe
+"Mar 4, 2025 8:07:24 PM",arm-threathunti,aaronmart,ConnectionSuccess,45.142.177.89,443,,tor.exe
+"Mar 4, 2025 8:07:25 PM",arm-threathunti,aaronmart,ConnectionSuccess,45.142.177.89,443,https://www.vosy37rgtvethmqctmth3h.com,tor.exe
+"Mar 4, 2025 8:07:33 PM",arm-threathunti,aaronmart,ConnectionSuccess,37.120.31.130,9001,,tor.exe
+"Mar 4, 2025 8:07:35 PM",arm-threathunti,aaronmart,ConnectionSuccess,37.120.31.130,9001,https://www.aobewyo.com,tor.exe
+"Mar 4, 2025 8:07:36 PM",arm-threathunti,aaronmart,ConnectionSuccess,194.58.66.111,443,,tor.exe
+"Mar 4, 2025 8:07:37 PM",arm-threathunti,aaronmart,ConnectionSuccess,45.135.180.73,9001,,tor.exe
+"Mar 4, 2025 8:07:38 PM",arm-threathunti,aaronmart,ConnectionSuccess,146.0.40.193,9001,,tor.exe
+"Mar 4, 2025 8:07:40 PM",arm-threathunti,aaronmart,ConnectionSuccess,89.44.198.196,443,,tor.exe
+"Mar 4, 2025 8:07:40 PM",arm-threathunti,aaronmart,ConnectionSuccess,45.135.180.73,9001,https://www.v7eyrtfinsmlkdgf.com,tor.exe
+"Mar 4, 2025 8:07:41 PM",arm-threathunti,aaronmart,ConnectionSuccess,127.0.0.1,9150,,firefox.exe
+"Mar 4, 2025 8:08:00 PM",arm-threathunti,aaronmart,ConnectionSuccess,194.58.66.111,443,https://www.pwd5.com,tor.exe
+"Mar 4, 2025 8:08:00 PM",arm-threathunti,aaronmart,ConnectionSuccess,146.0.40.193,9001,https://www.2whxvbdixeas.com,tor.exe
+"Mar 4, 2025 8:08:00 PM",arm-threathunti,aaronmart,ConnectionSuccess,89.44.198.196,443,https://www.ooqhgpf4qi4lzl.com,tor.exe
+"Mar 4, 2025 8:08:51 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.96.153.111,443,fd.api.iris.microsoft.com,backgroundtaskhost.exe
+"Mar 4, 2025 8:09:38 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.42.16,443,config.edge.skype.com,skypeapp.exe
+"Mar 4, 2025 8:09:38 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,,skypeapp.exe
+"Mar 4, 2025 8:09:38 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.33.192.6,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbq50otx/h0ztl+z8sipi7wewvxdlqqutijuibiv5unu5g/6+rks7qyxjzkceauzzszeml49gjh0j13p68w=,skypeapp.exe
+"Mar 4, 2025 8:09:40 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.42.16,443,https://config.edge.skype.com,skypeapp.exe
+"Mar 4, 2025 8:09:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.215.0.201,80,,skypeapp.exe
+"Mar 4, 2025 8:09:43 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.215.0.201,80,http://www.msftconnecttest.com/connecttest.txt?n=1741136982992,skypeapp.exe
+"Mar 4, 2025 8:09:56 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.189.173.8,443,browser.pipe.aria.microsoft.com,skypeapp.exe
+"Mar 4, 2025 8:09:56 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.189.173.8,443,https://browser.pipe.aria.microsoft.com,skypeapp.exe
+"Mar 4, 2025 8:13:32 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.89.230.12,443,watson.events.data.microsoft.com,taskhostw.exe
+"Mar 4, 2025 8:13:32 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.89.230.12,443,https://watson.events.data.microsoft.com,taskhostw.exe
+"Mar 4, 2025 8:17:45 PM",arm-threathunti,aaronmart,ConnectionSuccess,45.135.180.73,9001,https://www.c3p4aqp.com,tor.exe
+"Mar 4, 2025 8:17:56 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.209.72.31,443,assets.msn.com,explorer.exe
+"Mar 4, 2025 8:17:57 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.48.203.110,443,th.bing.com,searchapp.exe
+"Mar 4, 2025 8:17:57 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.48.203.110,443,https://th.bing.com,searchapp.exe
+"Mar 4, 2025 8:18:05 PM",arm-threathunti,aaronmart,ConnectionSuccess,4.152.133.8,443,,msedge.exe
+"Mar 4, 2025 8:22:57 PM",arm-threathunti,aaronmart,ConnectionSuccess,4.152.133.8,443,unitedstates.smartscreen.microsoft.com,smartscreen.exe
+"Mar 4, 2025 8:22:59 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.73.254,443,bx-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:22:59 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.254,443,a-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:22:59 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.37.4.118,443,d66be923fba14e4d9390575061670bea.azr.footprintdns.com,searchapp.exe
+"Mar 4, 2025 8:23:29 PM",arm-threathunti,aaronmart,ConnectionSuccess,204.79.197.254,443,https://a-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:23:29 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.73.254,443,https://bx-ring.msedge.net,searchapp.exe
+"Mar 4, 2025 8:23:29 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.37.4.118,443,https://d66be923fba14e4d9390575061670bea.azr.footprintdns.com,searchapp.exe
+"Mar 4, 2025 8:24:58 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.48.203.115,443,,msedge.exe
+"Mar 4, 2025 8:24:58 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.21.239,443,https://edge.microsoft.com,msedge.exe
+"Mar 4, 2025 8:24:58 PM",arm-threathunti,aaronmart,ConnectionSuccess,150.171.27.10,443,https://www.bing.com,msedge.exe
+"Mar 4, 2025 8:25:05 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.48.203.115,443,https://copilot.microsoft.com,msedge.exe
+"Mar 4, 2025 8:25:25 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,https://edge-consumer-static.azureedge.net,msedge.exe
+"Mar 4, 2025 8:27:25 PM",arm-threathunti,aaronmart,ConnectionSuccess,13.107.246.41,443,https://static.edge.microsoftapp.net,msedge.exe
+"Mar 4, 2025 8:29:50 PM",arm-threathunti,network service,ConnectionFailed,146.75.30.172,80,ctldl.windowsupdate.com,svchost.exe
+"Mar 4, 2025 8:37:01 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.123.247.53,443,config.teams.microsoft.com,onedrivestandaloneupdater.exe
+"Mar 4, 2025 8:37:01 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,ocsp.digicert.com,onedrivestandaloneupdater.exe
+"Mar 4, 2025 8:37:01 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbsauqybmq2awn1rh6doh/sbygfv7gqua95qnvbrtltm8kpigxvdl7i90vucea8xgkjg8ioakhjnltbdwog=,onedrivestandaloneupdater.exe
+"Mar 4, 2025 8:37:18 PM",arm-threathunti,aaronmart,ConnectionSuccess,52.123.247.53,443,https://config.teams.microsoft.com,onedrivestandaloneupdater.exe
+"Mar 4, 2025 8:40:19 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.223.33.122,443,res.public.onecdn.static.microsoft,backgroundtaskhost.exe
+"Mar 4, 2025 8:40:19 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.223.33.122,443,https://res.public.onecdn.static.microsoft,backgroundtaskhost.exe
+"Mar 4, 2025 8:40:19 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,ocsp.digicert.com,backgroundtaskhost.exe
+"Mar 4, 2025 8:40:19 PM",arm-threathunti,aaronmart,ConnectionSuccess,23.13.145.132,80,http://ocsp.digicert.com/mfewtzbnmeswstajbgurdgmcgguabbtrjrydryt+apf3gspypfhbxr5xtqqus9tippmhxdiunkhmewnpyim8s8ycea8ffxwczc0zc0vcx82ugjm=,backgroundtaskhost.exe
+"Mar 4, 2025 8:40:33 PM",arm-threathunti,aaronmart,ConnectionSuccess,20.75.60.91,443,https://arc.msn.com,backgroundtaskhost.exe
